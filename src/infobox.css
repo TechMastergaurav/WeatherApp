@@ -1,0 +1,12 @@
+.InfoBox {
+    display: flex;
+    justify-content: center; /* Center the card horizontally */
+    align-items: center; /* Center the card vertically, if needed */
+    width: 100%; /* Ensure it takes full available width */
+  }
+  
+  .cardContainer {
+    width: 100%; /* Ensure the container is wide enough */
+    max-width: 345px; /* Match the card's maxWidth */
+    margin: auto; /* Center the container */
+  }
